@@ -1,6 +1,6 @@
 export const CONFIG = {
   symbol: "BTCUSDT",
-  binanceBaseUrl: "https://api.binance.com",
+  binanceBaseUrl: "https://api.coinbase.com",
   gammaBaseUrl: "https://gamma-api.polymarket.com",
   clobBaseUrl: "https://clob.polymarket.com",
 
